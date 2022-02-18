@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## GitHub Stats and Most Used Languages
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=senhaga&hide=issues&theme=github-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senhaga&layout=compact&theme=github-dark&langs_count=10)](https://github.com/senhaga/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=senhaga&hide=issues&theme=github_dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senhaga&layout=compact&theme=github_dark&langs_count=10)](https://github.com/senhaga/github-readme-stats)
 
 <!--
 https://github.com/ildaneta/
